@@ -1,6 +1,9 @@
 ## WAV to MP3 Converter
 
-This Python GUI application converts WAV files to MP3 format.
+A free open-source WAV to MP3 converter. Supports batch file selction.
+Python GUI application converts WAV files to MP3 format.
+For more of my projects keep and eye on my site: 
+https://bigandtallrecords.com/
 
 ## Requirements
 
@@ -26,3 +29,6 @@ This Python GUI application converts WAV files to MP3 format.
  - pc - python "mp3.py"
 
  ![Alt text](images/mp3.png)
+
+ If you like my open-source software you may also like my music
+ https://bigandtallrecords.com/
