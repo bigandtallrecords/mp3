@@ -45,15 +45,7 @@ dontations welcome
 
  ![Alt text](images/merch-1.png)
 
-<span style="color: #00ffff;">or perhaps a cool shirt of a floppy disk?(#00ffff).</span>
-
-![Alt text](images/merch-2.png)
-
-<span style="color: #ff69b4;">not gonna lie we are also looking for a handout like everyone else...</span>
-
-![Alt text](images/merch-3.png)
-
-![Feature Image](https://bigandtallrecords.com/merch#!/)
+if so then visit: https://bigandtallrecords.com/merch
 
 love
 daniel 
