@@ -22,5 +22,7 @@ This Python GUI application converts WAV files to MP3 format.
    ```
 
  ## Usage
- mac - python3 "mp3.py"
- pc - python "mp3.py"
+ - mac - python3 "mp3.py"
+ - pc - python "mp3.py"
+
+ ![Alt text](images/mp3.png)
