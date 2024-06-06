@@ -53,6 +53,8 @@ dontations welcome
 
 ![Alt text](images/merch-3.png)
 
+![Feature Image](https://bigandtallrecords.com/merch#!/)
+
 love
 daniel 
 ❤️❤️❤️
