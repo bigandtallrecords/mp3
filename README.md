@@ -3,14 +3,14 @@
 A free open-source WAV to MP3 converter. Supports batch file selction.
 Python GUI application converts WAV files to MP3 format.
 For more of my projects keep and eye on my site: 
-https://bigandtallrecords.com/
+https://bigandtallrecords.com/code
 
 ## Requirements
 
 - Python 3.10
 - [PYsimplegui] https://pypi.org/project/PySimpleGUI/
 - [ffmpeg](https://ffmpeg.org/)
-- make sure both brew install and ffmpeg are in path
+- for Mac make sure both brew and ffmpeg are in path
 
 ## Installation
 
@@ -31,4 +31,4 @@ https://bigandtallrecords.com/
  ![Alt text](images/mp3.png)
 
  If you like my open-source software you may also like my music
- https://bigandtallrecords.com/
+ https://bigandtallrecords.com/music
