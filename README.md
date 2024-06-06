@@ -28,7 +28,7 @@ https://bigandtallrecords.com/code
  - mac - python3 "mp3.py"
  - pc - python "mp3.py"
 
- ![Alt text](images/mp3.png)
+ ![Alt text](images/mp3-ii.png)
 
  If you like my open-source software you may also like my music
  https://bigandtallrecords.com/music
